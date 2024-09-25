@@ -12,9 +12,7 @@
 | mv | Element aufrufen |
 | rm -r | Element aufrufen |
 | rm -rf | Element aufrufen |
-| cd | Element aufrufen |
-| cd | Element aufrufen |
-| cd | Element aufrufen |
 
 ***
 
+**_Fortsetzung folgt_**
