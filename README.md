@@ -15,5 +15,5 @@
 
 ---
 
-**_Fortsetzung folgt_** :smirk:
+**_Fortsetzung folgt_**   :smirk:
 
