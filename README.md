@@ -6,7 +6,6 @@
 | touch | Datei erstellen |
 | cd | Element aufrufen |
 | cd .. | eine Ebene zurück |
-| rm | Element aufrufen |
 | code | Element aufrufen |
 | nano | Element aufrufen |
 | mv | Element aufrufen |
@@ -15,4 +14,5 @@
 
 ***
 
-**_Fortsetzung folgt_**
+**_Fortsetzung folgt_** :smirk:
+
